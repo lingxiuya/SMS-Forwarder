@@ -1,0 +1,16 @@
+*.iml
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+app/build/
+rules/
+.gemini/
+.brain/
+.system_generated/
+scratch/
+captures/
+.externalNativeBuild/
+.cxx/
+.agents/
